@@ -17,6 +17,12 @@ Blender addon to mod .uasset files.
 - Import mesh assets with textures
 - Inject meshes, armatures, and animations to .uasset files
 
+## Blender version supported
+
+Blender 3.6 version ONLY!
+
+BEWARE: Blender 4.X or the latest version will not work with this add-on, please use 3.6 only
+
 ## Supported Versions and Assets
 
 :heavy_check_mark:: Supported<br>
